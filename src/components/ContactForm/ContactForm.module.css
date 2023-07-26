@@ -1,0 +1,25 @@
+.contact_form{
+        max-width: 400px;
+        padding: 15px;
+        background-color: transparent;
+        border: 1px solid rgb(0, 0, 0);
+        border-radius: 4px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-bottom: 15px;
+}
+.contact_label{
+    font-size: 18px;
+    font-weight: 600;
+        display: block;
+        margin-bottom: 10px;
+}
+.contact_input {
+    margin: 0 auto;
+      width: 100%;
+      max-width: 300px;
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid rgb(240, 204, 204);
+      border-radius: 4px;
+      margin-top: 5px;
+  }
